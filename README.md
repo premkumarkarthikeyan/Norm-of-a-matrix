@@ -54,7 +54,6 @@ print(nor_of_matrix)
 
 ## Output:
 ### 1-Norm of a Matrix
-<br>
 <br>![7a maths prem](https://github.com/premkumarkarthikeyan/Norm-of-a-matrix/assets/119476243/4520eb94-0465-4785-b1fa-a079dbc0ccf1)
 
 <br>
